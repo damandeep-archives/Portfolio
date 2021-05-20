@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Damandeep Singh",
+    "occupation": "I am a MERN Stack Developer",
+    "description": "",
+    "image": "dds.jpeg.jpeg",
+    "bio": "Hi there! I am a Mern Stack Developer with extensive knowledge of ReactJs. Detail-oriented problem-solver who can work in a fast-paced environment. Built scalable websites using ReactJs and NextJs. Open to work.",
+    "contactmessage": "",
+    "email": "damandeep.in@gmail.com",
+    "phone": "+91 8860403317",
+    "address": {
+      "street": "C4F/158 Janakpuri , New Delhi",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "zip": "110058"
+    },
+    "website": "",
+    "resumedownload": "https://www.linkedin.com/in/damandeep-singh-3aaa83184/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/damandeep-singh-3aaa83184/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dds05",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indraprastha University",
+        "degree": "Bachelor's Degree, Electronics and Communication",
+        "graduated": "August 2018 - Present",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Cpp",
+        "level": "85%"
+      },
+      {
+        "name": "Html5",
+        "level": "95%"
+      },
+      {
+        "name": "css3",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Monogo db",
+        "level": "85%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "90%"
+      },
+      {
+        "name": "TailwindCSS",
+        "level": "75%"
+      }
+
+     
+      
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "OpenBoard",
+        "category": "Html,css,js",
+        "image": "Screenshot (51).png",
+        "url": "https://musing-perlman-c6bde1.netlify.app/"
+      },
+      {
+        "title": "Whatapp-Clone",
+        "category": "NextJs+firebase",
+        "image": "Screenshot (52).png",
+        "url": "https://whatapp2.vercel.app/"
+      },
+      {
+        "title": "Google-Clone",
+        "category": "NextJs",
+        "image": "Screenshot (53).png",
+        "url": "https://gclone-a0mws6678-damandeepin-gmailcom.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text":"",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
